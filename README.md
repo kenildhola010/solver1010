@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1609-even-odd-tree) |
+## Array
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3689-maximum-total-subarray-value-i) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
