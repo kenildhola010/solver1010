@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0173-binary-search-tree-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0538-convert-bst-to-greater-tree) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -22,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0173-binary-search-tree-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0173-binary-search-tree-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0538-convert-bst-to-greater-tree) |
