@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0216-combination-sum-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0001-two-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
