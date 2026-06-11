@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
