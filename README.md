@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1609-even-odd-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
