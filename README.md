@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
