@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0977-squares-of-a-sorted-array) |
+| [1695-maximum-erasure-value](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3838-weighted-word-mapping) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0930-binary-subarrays-with-sum) |
+| [1695-maximum-erasure-value](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1695-maximum-erasure-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Simulation
