@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
+## Database
+|  |
+| ------- |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
