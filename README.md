@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0207-course-schedule](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0207-course-schedule) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0733-flood-fill) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0994-rotting-oranges) |
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1741-find-total-time-spent-by-each-employee) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
