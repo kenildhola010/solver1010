@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
