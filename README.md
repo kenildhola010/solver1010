@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1695-maximum-erasure-value](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1840-maximum-building-height) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3689-maximum-total-subarray-value-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
+| [1833-maximum-ice-cream-bars](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3689-maximum-total-subarray-value-i) |
 ## Stack
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
+| [1833-maximum-ice-cream-bars](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1840-maximum-building-height) |
 ## Sliding Window
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
