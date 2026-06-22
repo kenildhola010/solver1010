@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0713-subarray-product-less-than-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Tree
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1609-even-odd-tree) |
+| [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1833-maximum-ice-cream-bars) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
+| [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 ## Database
 |  |
 | ------- |
@@ -275,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
 |  |
 | ------- |
