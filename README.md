@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3838-weighted-word-mapping) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
 | [1189-maximum-number-of-balloons](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3614-process-string-with-special-operations-ii) |
