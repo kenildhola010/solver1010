@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3838-weighted-word-mapping) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
