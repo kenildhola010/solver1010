@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0134-gas-station) |
+| [0198-house-robber](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0216-combination-sum-iii) |
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
