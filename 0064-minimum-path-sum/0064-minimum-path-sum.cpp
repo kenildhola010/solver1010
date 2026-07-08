@@ -25,7 +25,25 @@ public:
         int n = v[0].size();
 
         vector<vector<int>> dp(m, vector<int>(n, -1));
+        dp[0][0] = v[0][0];
 
-        return fun(0, 0, v, dp);
+        for(int  i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if(i == 0 && j==0) continue;
+
+                int right = INT_MAX, down = INT_MAX;
+
+                if(i > 0){
+                    down = dp[i-1][j]; 
+                }
+                if(j >0){
+                    right = dp[i][j-1];
+                }
+
+                dp[i][j] = v[i][j] + min(right, down);
+            }
+        }
+
+        return dp[m-1][n-1];
     }
 };
