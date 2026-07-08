@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0198-house-robber) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1840-maximum-building-height) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
