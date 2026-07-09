@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3838-weighted-word-mapping) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1695-maximum-erasure-value) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
 |  |
 | ------- |
