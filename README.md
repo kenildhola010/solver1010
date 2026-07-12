@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
+| [0516-longest-palindromic-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1143-longest-common-subsequence) |
