@@ -440,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0044-wildcard-matching) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
