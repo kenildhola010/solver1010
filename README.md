@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0904-fruit-into-baskets) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0134-gas-station) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
 | [1833-maximum-ice-cream-bars](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1833-maximum-ice-cream-bars) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1092-shortest-common-supersequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1143-longest-common-subsequence) |
