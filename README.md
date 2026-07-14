@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1463-cherry-pickup-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Matrix
 |  |
@@ -461,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
