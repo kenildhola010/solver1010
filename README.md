@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0930-binary-subarrays-with-sum) |
+| [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1345-jump-game-iv) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0516-longest-palindromic-subsequence) |
+| [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1189-maximum-number-of-balloons) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -312,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1331-rank-transform-of-an-array) |
