@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -483,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
