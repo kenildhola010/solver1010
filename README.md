@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0368-largest-divisible-subset) |
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
