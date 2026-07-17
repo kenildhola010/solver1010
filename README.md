@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0127-word-ladder) |
+| [0560-subarray-sum-equals-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0930-binary-subarrays-with-sum) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0930-binary-subarrays-with-sum) |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
