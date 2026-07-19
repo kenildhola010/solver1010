@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0173-binary-search-tree-iterator) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0044-wildcard-matching) |
