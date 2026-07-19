@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0127-word-ladder) |
+| [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0904-fruit-into-baskets) |
@@ -525,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0493-reverse-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
