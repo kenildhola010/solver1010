@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0173-binary-search-tree-iterator) |
+| [0402-remove-k-digits](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0735-asteroid-collision) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
+| [0402-remove-k-digits](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1092-shortest-common-supersequence) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0907-sum-of-subarray-minimums) |
