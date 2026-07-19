@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0063-unique-paths-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0503-next-greater-element-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0088-merge-sorted-array) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0062-unique-paths) |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
