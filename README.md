@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0503-next-greater-element-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -532,4 +534,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
