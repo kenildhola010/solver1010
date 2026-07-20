@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1331-rank-transform-of-an-array) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3838-weighted-word-mapping) |
