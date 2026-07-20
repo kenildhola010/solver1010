@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0022-generate-parentheses) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0930-binary-subarrays-with-sum) |
