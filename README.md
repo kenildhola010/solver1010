@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0210-course-schedule-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0516-longest-palindromic-subsequence) |
+| [0721-accounts-merge](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1143-longest-common-subsequence) |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0368-largest-divisible-subset) |
+| [0721-accounts-merge](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0977-squares-of-a-sorted-array) |
@@ -489,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
