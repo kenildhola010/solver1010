@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1331-rank-transform-of-an-array) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
