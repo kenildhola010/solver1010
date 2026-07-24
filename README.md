@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0735-asteroid-collision) |
+| [0827-making-a-large-island](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0827-making-a-large-island) |
 | [0881-boats-to-save-people](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0907-sum-of-subarray-minimums) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1319-number-of-operations-to-make-network-connected) |
