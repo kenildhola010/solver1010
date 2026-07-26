@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2463-minimum-total-distance-traveled](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2463-minimum-total-distance-traveled) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1463-cherry-pickup-ii) |
+| [2463-minimum-total-distance-traveled](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2463-minimum-total-distance-traveled) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2463-minimum-total-distance-traveled](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2463-minimum-total-distance-traveled) |
 | [3536-maximum-product-of-two-digits](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
