@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1695-maximum-erasure-value) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1463-cherry-pickup-ii) |
 | [2463-minimum-total-distance-traveled](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2463-minimum-total-distance-traveled) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -599,4 +602,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
