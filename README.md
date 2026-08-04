@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0173-binary-search-tree-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0300-longest-increasing-subsequence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0039-combination-sum) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3737-count-subarrays-with-majority-element-i) |
