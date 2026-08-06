@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3310-remove-methods-from-project) |
 ## Array
 |  |
 | ------- |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
