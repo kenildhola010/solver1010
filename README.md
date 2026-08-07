@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
