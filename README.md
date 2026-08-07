@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1695-maximum-erasure-value) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0907-sum-of-subarray-minimums) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/3838-weighted-word-mapping) |
@@ -624,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1406-stone-game-iii) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
