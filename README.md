@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/kenildhola010/https-github.com-kenildhola010-SoLver/tree/master/0550-game-play-analysis-iv) |
